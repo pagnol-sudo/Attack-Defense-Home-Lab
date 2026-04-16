@@ -1,13 +1,13 @@
 # 🛡️ Projet Home Lab : Simulation Attaque/Défense & SOC
 
-## 📝 Présentation du projet
+## Présentation du projet
 Ce projet consiste en la création d'un laboratoire de cybersécurité complet et virtualisé. L'objectif est de simuler un environnement d'entreprise réaliste pour pratiquer l'exploitation de vulnérabilités, la détection de menaces (SIEM) et la réponse aux incidents (Incident Response).
 
 L'infrastructure permet de couvrir l'intégralité du cycle de vie d'une cyber-attaque, de la reconnaissance à l'exfiltration, tout en configurant les outils de défense utilisés en centre SOC.
 
 ---
 
-## 🏗️ Architecture du Réseau
+## Architecture du Réseau
 Voici le schéma de l'infrastructure déployée :
 
 ![Architecture du Lab](./lab_network.png)
